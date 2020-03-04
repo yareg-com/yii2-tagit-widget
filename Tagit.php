@@ -1,6 +1,6 @@
 <?php
 
-namespace xj\tagit;
+namespace freepzu\tagit;
 
 use yii\helpers\Html;
 use yii\helpers\Json;

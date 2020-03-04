@@ -1,6 +1,6 @@
 <?php
 
-namespace xj\tagit;
+namespace freepzu\tagit;
 
 use yii\web\AssetBundle;
 
@@ -11,11 +11,11 @@ use yii\web\AssetBundle;
 class TagitAsset extends AssetBundle
 {
 
-    public $sourcePath = '@bower/tag-it';
-    public $js = ['js/tag-it.js'];
+    public $sourcePath = '/';
+    public $js = ['js/tag-it.min.js'];
     public $css = [
-        'css/jquery.tagit.css',
-        'css/tagit.ui-zendesk.css',
+        'css/jquery.tagit.min.css',
+        'css/tagit.ui-zendesk.min.css',
     ];
     public $depends = [
         'yii\web\JqueryAsset',
