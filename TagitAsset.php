@@ -7,6 +7,7 @@ use yii\web\AssetBundle;
 /**
  * 
  * @author xjflyttp <xjflyttp@gmail.com>
+ * @author freepzu <freepzu@gmail.com>
  */
 class TagitAsset extends AssetBundle
 {

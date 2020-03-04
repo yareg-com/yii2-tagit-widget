@@ -9,6 +9,7 @@ use yii\widgets\InputWidget;
 /**
  *
  * @author xjflyttp <xjflyttp@gmail.com>
+ * @author freepzu <freepzu@gmail.com>
  */
 class Tagit extends InputWidget
 {
