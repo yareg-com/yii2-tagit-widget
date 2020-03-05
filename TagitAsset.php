@@ -12,7 +12,7 @@ use yii\web\AssetBundle;
 class TagitAsset extends AssetBundle
 {
 
-    public $sourcePath = '/';
+    public $sourcePath = '@vendor/freepzu/yii2-tagit-widget/';
     public $js = ['js/tag-it.min.js'];
     public $css = [
         'css/jquery.tagit.min.css',
