@@ -1,6 +1,6 @@
 # yii2-tagit-widget
 ```
-https://github.com/aehlke/tag-it
+https://github.com/yareg-com/yii2-tagit-widget
 ```
 
 composer.json
@@ -75,5 +75,5 @@ echo Tagit::widget([
 Assets
 ---
 ```php
-xj\tagit\TagitAsset::register($this);
+freepzu\tagit\TagitAsset::register($this);
 ```
