@@ -7,7 +7,7 @@ composer.json
 ---------
 ```json
 "require": {
-    "xj/yii2-tagit-widget": "*"
+    "yareg-com/yii2-tagit-widget": "*"
 },
 ```
 
